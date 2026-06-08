@@ -1,0 +1,13 @@
+{
+  "movie_count": 2000,
+  "detail_file_count": 2000,
+  "category_file_count": 10,
+  "html_file_count": 2014,
+  "analytics_html_count": 2014,
+  "index_movie_card_count": 2024,
+  "media_file_count": 0,
+  "all_html_has_analytics": true,
+  "details_match_movies": true,
+  "index_cards_cover_movies": true,
+  "no_images_packaged": true
+}
